@@ -1,0 +1,7 @@
+name: tgraph-auc-py311
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - uproot
+  - scikit-learn
